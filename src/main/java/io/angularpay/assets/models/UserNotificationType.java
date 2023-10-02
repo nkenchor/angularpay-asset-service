@@ -1,0 +1,11 @@
+package io.angularpay.assets.models;
+
+public enum UserNotificationType {
+    INVESTMENT_VERIFIED,
+    PEER_INVESTOR_ADDED,
+    INVESTOR_DELETED_BY_SELF,
+    INVESTMENT_DEACTIVATED,
+    INVESTMENT_ACTIVATED,
+    INVESTMENT_COMPLETED,
+    INVESTMENT_CANCELLED;
+}
